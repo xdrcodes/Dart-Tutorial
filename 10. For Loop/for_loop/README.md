@@ -1,5 +1,5 @@
 # FOR LOOP
-## For Loop Syntax
+### For Loop Syntax
 ```dart
 for(initializer; condition; increment/decrement) {
     // Put your code here.
@@ -10,7 +10,7 @@ for(int i = 1; i < = 3; i++) {
     print("Hello");
 }
 ```
-## How it works?
+### How it works?
 `Initialize` -> `Condition check` -> `Code Execute` -> `Increment`
 ```dart
 LOOP 1 -> i = 1 -> Yes... -> true -> print("Hello") -> i++ -> i = 2
