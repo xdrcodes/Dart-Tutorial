@@ -2,7 +2,7 @@
 ### TERNARY OPERATOR IN DART PROGRAMMING
 The ternary operator is a shorthand version of an if-else condition. There are two types of ternary operator syntax in Dart, one with null safety check and the other is the same old one we encounter normally.
 ### Syntax 1
-The above syntax implies that if a certain condition evaluates to true then we evaluate the expressionOne first and then the expressionTwo.
+The below syntax implies that if a certain condition evaluates to true then we evaluate the expressionOne first and then the expressionTwo.
 ```dart
 condition ? expressionOne : expressionTwo;
 // If condition is true evaluates expressionOne(and returns it's values).
