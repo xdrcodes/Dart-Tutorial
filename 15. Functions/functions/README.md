@@ -9,7 +9,7 @@ int findArea(int length, int breadth) {
   return length * breadth;
 }
 ```
-## PROPERTIES OF FUNCTIONS IN DART
+# PROPERTIES OF FUNCTIONS IN DART
 Functions in Dart are objects.
 - Functions can be assigned to a variable or passed as parameter to other functions.
 ```dart
