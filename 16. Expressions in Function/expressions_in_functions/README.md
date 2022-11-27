@@ -5,8 +5,7 @@ In dart, we have fat arrow notation ( => ). A fat arrow is used to define a sing
 - Return Type consists of datatype like void, int, bool, etc.
 - Function Name defines the name of the function.
 - Parameters are the list of parameters funvtion requires.
-<br/>
-When the body of the function contains only one line, you can omit the curly braces and the return statement in favor of the "arrow syntax".
+#### When the body of the function contains only one line, you can omit the curly braces and the return statement in favor of the "arrow syntax".
 - Fat arrow is a clean way to write function expression in a single line.
 - Fat arrow notation doesn't have statements body'{ }'
-- 
+- The statement body is replaced with ' => ' fat arrow which points to a single statement.
