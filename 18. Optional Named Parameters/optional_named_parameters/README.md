@@ -1,4 +1,13 @@
 # OPTIONAL NAMED PARAMETERS
+Unlike positional parameters, the parameters’ name must be specified while the value is being passed. Curly brace {} can be used to specify optional named parameters. Prevent errors if there are large number of parameters.
+## Syntax - Declaring the function
+```dart
+void function_name(a, {optional_param1, optional_param2}) { } 
+```
+## Syntax - Calling the function
+```dart
+function_name(optional_param:value,…); 
+```
 ```dart
 void main() {
   var result = findVolume(2, breadth: 3, height: 10);
