@@ -5,3 +5,4 @@ Unfortunately App Has Stopped
 
     REPORT             OK
 ```
+## EXCEPTIONS & DESCRIPTION (Some of the common once)
