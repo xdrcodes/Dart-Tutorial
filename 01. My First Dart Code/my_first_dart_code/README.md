@@ -1,1 +1,1 @@
-First Code in action is always special. I have covered This is my dart playlist where I have posted dart from basic to OOP, follow along with this codes and the readme files to get an complete understanding of the topics.
+First Code in action is always special. I have tried to cover all the important topics in dart. This is my dart playlist where I have posted dart from basic to OOP, follow along with this codes and the readme files to get an complete understanding of the topics.
